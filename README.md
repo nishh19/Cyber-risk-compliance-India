@@ -23,12 +23,41 @@ A simulated end-to-end Governance, Risk & Compliance (GRC) assessment for a fict
 
 ## 📌 Key Highlights
 
-- **Risks Identified**: 7 major risks across cloud security, data protection, and incident response.
+- **Risks Identified**: Seven major simulated risks across critical domains including cloud security, data protection, and incident response, with detailed mitigation strategies
 - **Compliance Status**:
-  - ISO/NIST: 70% aligned
-  - DPDP Act: 75% compliant
+  - ISO/NIST: Achieved 70% alignment with combined ISO 27001 and NIST CSF controls, indicating a strong baseline security posture.
+  - DPDP Act:  Demonstrated 75% compliance with the stringent requirements of the Digital Personal Data Protection Act 2023, highlighting key areas for improvement.
 - **Policy Framework**: Comprehensive policies covering critical security domains.
-- **Visual Tools**: Risk heatmap and compliance dashboard for easy monitoring.
+- **Visual Tools**: Utilization of an interactive compliance dashboard and a clear risk heatmap for intuitive monitoring and reporting of GRC metrics.
+
+## 📊 Dashboard & Visuals Showcase
+Explore the key insights and interactive elements of this project through the following visuals:
+
+**Compliance Dashboard Overview**
+A high-level view of the interactive Excel dashboard, presenting aggregated KPIs, compliance status distribution, and risk scores by category.
+<p align="center">
+  <img src="images/complaince_dashboard_ov.png" alt="Compliance Dashboard Overview" width="750"/>
+</p>
+
+**Key Performance Indicators (KPIs)**
+A closer look at the summary KPIs that provide a real-time pulse on the GRC posture.
+<p align="center">
+  <img src="images/kpi_card.png" alt="KPI Cards" width="400"/>
+</p>
+
+**Risk Status & Compliance Distribution**
+Visual breakdowns illustrating the current state of compliance across different categories and the distribution of identified risks.
+<p align="center">
+  <img src="images/chart1.png" alt="Compliance & Risk Distribution Charts" width="700"/>
+</p>
+<p align="center">
+  <img src="images/chart2.png" alt="Compliance & Risk Distribution Charts" width="700"/>
+</p>
+**Interactive Filtering in Action**
+Demonstrates how the dashboard's slicers allow for dynamic filtering and exploration of data, providing granular insights into specific risk areas or compliance statuses.
+<p align="center">
+  <img src="images/slicer.png" alt="Dashboard with Slicers Applied" width="750"/>
+</p>
 
 ## 📈 Next Steps
 
