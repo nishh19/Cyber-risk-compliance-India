@@ -2,7 +2,7 @@
 
 **Organization**: PayNex FinTech Pvt. Ltd.  
 **Assessment Date**: May 2025  
-**Assessor**: [Your Name] (Cybersecurity Risk Analyst)
+**Assessor**:Nisha Pashte (Cybersecurity Risk Analyst)
 
 ---
 
