@@ -1,6 +1,6 @@
 # 🚨 Incident Response (IR) Policy
 
-**Effective Date:** 19.02.2025        
+**Effective Date:** 19.05.2025        
 **Version:** 1.0  
 **Applies To:** Security Team, SOC Analysts, IT Admins
 
