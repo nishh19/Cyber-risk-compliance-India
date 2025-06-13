@@ -1,6 +1,6 @@
 # 🛡️ Cloud Security Policy
 
-**Effective Date:** [Insert Date]  
+**Effective Date:** 19.05.2025 
 **Version:** 1.0  
 **Applies To:** All employees, DevOps, Cloud Admins
 
