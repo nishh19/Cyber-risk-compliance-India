@@ -41,7 +41,7 @@ Applicable to all departments handling sensitive or regulated data, especially p
 ## 5. Review & Testing
 
 - IR plan should be **tested via tabletop or red team exercise** at least annually.
-- Next review due: [Insert Date]
+- Next review due: 19.05.2026
 
 ---
 
