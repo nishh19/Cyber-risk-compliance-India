@@ -49,8 +49,7 @@ Any exception to this policy must be approved by the CISO in writing.
 ## 6. Review & Revision
 
 - Reviewed every 12 months or upon regulatory change.
-- Next review due: [Insert Next Year]
-
+- Next review due: 19.05.2026
 ---
 
 ## 7. References
